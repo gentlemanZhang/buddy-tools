@@ -1,0 +1,16 @@
+{
+  "name": "buddy-tools",
+  "version": "1.0.2",
+  "description": "a package\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dtool\u001b[C\u001b[C package of our project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001ba common tools package of our project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "commontools\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
+    "\u001b[C\u001b[D\u001b[C\u001b[C\u001b",
+    "tools"
+  ],
+  "author": "aimi",
+  "license": "ISC"
+}
